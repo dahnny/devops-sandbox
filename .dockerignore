@@ -1,0 +1,11 @@
+.git
+__pycache__
+*.pyc
+.env
+.venv
+.api.pid
+.cleanup.pid
+.monitor.pid
+logs
+envs
+nginx/conf.d

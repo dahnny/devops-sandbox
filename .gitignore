@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+
+envs/*
+!envs/.gitkeep
+
+logs/*
+!logs/.gitkeep
+
+nginx/conf.d/*.conf
+!nginx/conf.d/.gitkeep
+
+.api.pid
+.cleanup.pid
+.monitor.pid
